@@ -73,4 +73,7 @@
 .eUldiOlf{
   display: block;
   margin: auto;
+  align-items: center;
+  width: 100%;
+  height: 100%;
 }
