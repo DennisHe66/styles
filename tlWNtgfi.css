@@ -1,0 +1,24 @@
+.tlWNtgfi{
+  background-color: white;
+  user-select: none;
+  cursor: none;
+}
+.anchortag{
+  cursor: pointer;
+  color: black;
+  background-color: white;
+  transition: all 0.33s ease-out;
+}
+.anchortag:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  border-bottom-color: rgb(111,0,255);
+}
+.anchortag:visited{
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+  
+  
