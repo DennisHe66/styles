@@ -1,17 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 .tlWNtgfi{
   background-color: white;
   user-select: none;
-  cursor: none;
-  width: 100%;
-  height: 100%;
+  cursor: text;
+  pointer-events: all;
+  width: 100vw;
+  height: 100vh;
   text-align: center;
   margin: auto;
+  font-family: 'Titillium Web', sans-serif;
+}
+body{
+  pointer-events: none;
+  cursor: none;
+  user-select: none;
 }
 .anchortag{
   cursor: pointer;
   color: black;
   background-color: white;
   transition: all 0.33s ease-out;
+  font-family: 'Titillium Web', sans-serif;
 }
 .anchortag:hover{
   background-color: black;
