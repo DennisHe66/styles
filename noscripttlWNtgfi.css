@@ -2,13 +2,16 @@
 .tlWNtgfi{
   background-color: white;
   user-select: none;
-  cursor: text;
   pointer-events: all;
   width: 100vw;
   height: 100vh;
   text-align: center;
   margin: auto;
   font-family: 'Titillium Web', sans-serif;
+  cursor: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
 }
 body{
   pointer-events: none;
